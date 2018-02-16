@@ -2,7 +2,7 @@
 using namespace std;
 
 void numeros(int n);
-
+//Hola, soy Ana Bertha esta es mi aportación "Un bello comentario "
 main()
 {
 	cout<<"Sin recursividad con for"<<endl;
