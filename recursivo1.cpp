@@ -3,6 +3,7 @@ using namespace std;
 
 //HOLAAA!W
 //Holo :v
+//esta chido
 void numeros(int n);
 
 
