@@ -7,6 +7,7 @@ using namespace std;
 //HOLAAA!
 //MisaelPBL .-.
 
+//Carlos estuvo aquí :D
  
 //HOLAAA!W
 //Holo :v
@@ -68,8 +69,8 @@ main()
 void numeros(int n)
 {
 	/*EJEMPLO RECURSIVIDAD*/
-	cout<<n<<" ";//Imprimimos el n�mero y volvemos a llamar a la funci�n
-	numeros(n-1);//Aqu� aplica la recursividad
+	cout<<n<<" ";//Imprimimos el nï¿½mero y volvemos a llamar a la funciï¿½n
+	numeros(n-1);//Aquï¿½ aplica la recursividad
 	
 	
 	
@@ -87,14 +88,14 @@ void numeros(int n)
 	
 	
 	
-/*	if(n==0)//Aqui se establece el l�mite para salir de la recursividad
+/*	if(n==0)//Aqui se establece el lï¿½mite para salir de la recursividad
 	{
 		cout<<"0"<<" ";
 	}
 	else
 	{
-		cout<<n<<" ";//Imprimimos el n�mero y volvemos a llamar a la funci�n
-		numeros(n-1);//Aqu� aplica la recursividad
+		cout<<n<<" ";//Imprimimos el nï¿½mero y volvemos a llamar a la funciï¿½n
+		numeros(n-1);//Aquï¿½ aplica la recursividad
 	}
 */
 		/*...............................................
@@ -115,4 +116,10 @@ void numeros(int n)
 	          .......................................
 				soy Daniel :v 
 	          */
+	/*------------------------------------------------
+	---------------------------------------
+	-----------------------------------------------
+	-----------------------------------------------------
+	------------------------------------------
+	-------------------------------*/
 }
