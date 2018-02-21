@@ -48,7 +48,7 @@ void numeros(int n)
 	
 	/*UPS, ES UNA LLAMADA INFINITA PORQUE NO HAY TOPE O LIMITE*/
 	
-	
+	//vite-
 	
 	
 	
