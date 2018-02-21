@@ -2,23 +2,34 @@
 //hola profe :)
 #include <iostream>
 using namespace std;
+
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+//LIMÓN WAS HERE NENES
+
 //hola, soy sahi (:
 //esta chido
 //HOLAAA!
 //MisaelPBL .-.
 >>>TURURURURURU<<<
 //Carlos estuvo aquí :D
- 
+
 //HOLAAA!W
 //Holo :v
 <<<<<<< HEAD
 //esta chido
 =======
- 
+
 >>>>>>> 4a9899e47aa26c0847a20e118b34e946fa9d0d47
 void numeros(int n);
 <<<<<<< HEAD
-//Hola, soy Ana Bertha esta es mi aportaci�n "Un bello comentario "
+//Hola, soy Ana Bertha esta es mi aportaci�n "Un bello comentario "
 =======
 
 //Esto es un comentario de Vite
@@ -30,23 +41,23 @@ main()
 
 
 {
-	
+
 	cout<<"HOLIWIWIS :9 "<<endl;
 	cout<<"Sin recursividad con for"<<endl;
 	int varFor = 0;
-	for( varFor = 0; varFor >= 10; varFor++) 
+	for( varFor = 0; varFor >= 10; varFor++)
 	{
       cout<<varFor<<" ";
-      
+
 	}
 	cout<<endl<<endl<<"Sin recursividad con while"<<endl;
 	int varWhi=0;
-	while(varWhi>=10) 
+	while(varWhi>=10)
 	{
       cout<<varWhi<<" ";
       varWhi++;
 	}
-	
+
 	cout<<endl<<endl<<"Sin recursividad con do while"<<endl;
 	cout<<"Dios Tony\n";
 	int varDo=10;
@@ -54,11 +65,11 @@ main()
 			cout<<varDo<<" ";
 			varDo--;
 		}while(varDo>=0);
-		
+
 	cout<<endl<<endl<<"Con recursividad"<<endl;
 	//numeros(10);
 }
-/* 
+/*
 
 
 
@@ -66,8 +77,8 @@ main()
                 '0,,,,0,,,,0
                _||___||___||_
         '*,,{,,,,,,,,,,,,,,,,,,,},*
-        0,,{/\/\/\/\/\/\/\/\/\/},'0     
-        _||_{________"________}_||_  
+        0,,{/\/\/\/\/\/\/\/\/\/},'0
+        _||_{________"________}_||_
      {/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/}
      {,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,}
      {/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/}
@@ -81,23 +92,23 @@ void numeros(int n)
 	/*EJEMPLO RECURSIVIDAD*/
 	cout<<n<<" ";//Imprimimos el nï¿½mero y volvemos a llamar a la funciï¿½n
 	numeros(n-1);//Aquï¿½ aplica la recursividad
-	
-	
-	
-	
-//>:v :v :v :v :v :v :v :v :v :v	
-	
-	
-	
-	
+
+
+
+
+//>:v :v :v :v :v :v :v :v :v :v
+
+
+
+
 	/*UPS, ES UNA LLAMADA INFINITA PORQUE NO HAY TOPE O LIMITE*/
-	
+
 	//vite-
-	
-	
-	
-	
-	
+
+
+
+
+
 /*	if(n==0)//Aqui se establece el lï¿½mite para salir de la recursividad
 	{
 		cout<<"0"<<" ";
@@ -124,7 +135,7 @@ void numeros(int n)
 	        ...........................................
 	         .........................................
 	          .......................................
-				soy Daniel :v 
+				soy Daniel :v
 	          */
 	/*------------------------------------------------
 	---------------------------------------
